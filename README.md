@@ -1,9 +1,9 @@
-# Banking-Overview-Dashboard
-The "Banking Overview Dashboard" project is a Power BI Desktop dashboard designed to analyze synthetic banking data, focusing on transaction trends, account balances, customer segmentation, and monthly activity. 
-# 🏦 Banking Overview Dashboard
+# Banking-Performance-Analytics
+The "Banking Performance Analytics" project is a Power BI Desktop dashboard designed to analyze synthetic banking data, focusing on transaction trends, account balances, customer segmentation, and monthly activity. 
+# 🏦 Banking  Dashboard
 
 ## 📌 Project Overview
-This project is a **Banking Overview Dashboard** built in **Power BI** with an analytical report in **PDF format**.  
+This project is a **Banking Performance Analytics ** built in **Power BI** with an analytical report in **PDF format**.  
 It provides insights into customer demographics, transactions, balances, and financial patterns.  
 The project simulates real-world banking data analysis and helps in decision-making by visualizing **key financial KPIs**.
 
